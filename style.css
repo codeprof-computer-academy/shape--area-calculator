@@ -126,3 +126,18 @@ div select{
 div select option{
     color:black;
 }
+
+footer{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+
+footer p{
+    color:rgb(6, 32, 42);
+    font-size: 10px;
+}
